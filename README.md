@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I’m Natasha 👋</h1>
 
 <p align="center">
-  💼 Aspiring Project Manager | 📚 PMP & LLM Learner | 🛠️ Organized & Curious  
+  💼 Data Scientist | 📚 PMP & LLM Learner | 🛠️ Organized & Curious  
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ### 👩‍💻 About Me
 
 - 🔭 Currently exploring **Project Management** and **AI tools**
-- 🌱 Learning **PMP** certification & **Large Language Models (LLM)**
-- 🎯 Passionate about organizing workflows & building efficient systems
+- 🌱 Learning **PMP** certification
+- 🎯 Passionate about bridging the gap between data and business impact
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/natasha-sharzleen)
 - 😄 Pronouns: she/her
 - ✨ Fun fact: I give all my test files cat names 🐾
